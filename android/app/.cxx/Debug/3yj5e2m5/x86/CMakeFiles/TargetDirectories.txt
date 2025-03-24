@@ -1,0 +1,2 @@
+C:/Users/aksha/product_detail_application/android/app/.cxx/Debug/3yj5e2m5/x86/CMakeFiles/edit_cache.dir
+C:/Users/aksha/product_detail_application/android/app/.cxx/Debug/3yj5e2m5/x86/CMakeFiles/rebuild_cache.dir
